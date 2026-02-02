@@ -1,12 +1,12 @@
-# The Binary Hint 🔐
+# The Puzzle Hint 🔐
 
-A logic puzzle game inspired by the world of programming and binary systems. Crack a hidden secret code using only the hints provided — no guessing randomly, pure deduction.
+A logic puzzle game inspired by the world of programming and Puzzle systems. Crack a hidden secret code using only the hints provided — no guessing randomly, pure deduction.
 
 ---
 
 ## 🎮 Overview
 
-The Binary Hint challenges you to figure out a randomly generated secret code. Before you start guessing, the game gives you a set of pre-generated hints — each one is a sequence of numbers accompanied by a clue about how close it is to the real code. Your job is to analyze every hint, cross-reference them, and deduce the correct code digit by digit.
+The Puzzle Hint challenges you to figure out a randomly generated secret code. Before you start guessing, the game gives you a set of pre-generated hints — each one is a sequence of numbers accompanied by a clue about how close it is to the real code. Your job is to analyze every hint, cross-reference them, and deduce the correct code digit by digit.
 
 The game has two difficulty modes and a full bilingual interface (Arabic / English) that can be switched at any time during gameplay.
 
@@ -90,7 +90,7 @@ The game is fully bilingual. A language toggle button (`AR` / `EN`) is fixed to 
 
 The visual style is a minimalist black-and-white aesthetic inspired by old DOS terminals and classic command-line interfaces. Key design elements include:
 
-- **Binary rain background** — columns of 0s and 1s slowly fall behind the game board, reinforcing the coding/hacking theme.
+- **Puzzle rain background** — columns of 0s and 1s slowly fall behind the game board, reinforcing the coding/hacking theme.
 - **Rotating wheel inputs** — each digit is selected through a smooth mechanical-style wheel with up/down controls.
 - **Sound effects** — subtle audio feedback plays when rotating wheels, generated in real time using the Web Audio API (no external audio files needed).
 - **Glowing accents** — white glows and shadows give the interface a faint neon feel against the dark background.
